@@ -27,5 +27,5 @@ $(document).ready(function() {
     console.log($divs.eq(2).children())
     $divs.eq(2).children().text('Kohlrabi')
 
-    $('body').css("border", "1em solid black")
+    $('body').css("border", "1em solid red")
 })
