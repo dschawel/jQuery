@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+
+.meat {
+    background-color: #D42B94;
+    color: white;
+    /* height: 50px; */
+}
+
+.dairy {
+    background-color: #2B5ED4;
+    color: white;
+    /* height: 50px; */
+}
+
+.vegetable {
+    background-color: #BDB77F;
+    color: white;
+    /* height: 50px; */
+}
+
+.fruit {
+    background-color: #EED5C5;
+    color: white;
+    /* height: 50px; */
+}
+
